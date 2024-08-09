@@ -73,3 +73,6 @@ Q: 在國際組隊 1星/2/3/4 要怎講呢?
 A: 01234 星分別是 easy/normal/hard/nightmare(nm)/ultimate<br>
 2h 是大劍 hb 是旋風槍 katana 是拔刀 cf 是弓的交叉火線 finale 是法術終結<br>
 stun 是暈 fb 是全破 fk 是速殺
+
+Q: 請問解主線任務獲得的經驗值會隨等級的提升而增加嗎？<br>
+A: 主線的經驗值跟副本任務一樣是固定的
