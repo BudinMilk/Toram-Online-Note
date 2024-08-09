@@ -91,3 +91,7 @@ A: 可能不變，可能消失，也可能跳成其他數值，但能力類別�
 
 Q: 連擊的等級要怎樣練提升最快?<br>
 A: 用弱化護符去欺負肥仔，或 https://forum.gamer.com.tw/Co.php?bsn=28271&sn=21547&subbsn=0&bPage=2
+
+Q: 國際服用語?<br>
+A: lfp 找隊 lfm 找人<br>
+2H 雙手劍 cf 交叉火線 finale 終結 hb 長槍 md 魔導
