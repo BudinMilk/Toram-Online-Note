@@ -95,3 +95,7 @@ A: 用弱化護符去欺負肥仔，或 https://forum.gamer.com.tw/Co.php?bsn=28
 Q: 國際服用語?<br>
 A: lfp 找隊 lfm 找人<br>
 2H 雙手劍 cf 交叉火線 finale 終結 hb 長槍 md 魔導
+
+Q: 打怪的生成數量好少，剛進地圖時怪很多，有什麼解決辦法嗎?<br>
+A: 找隊伍、換地圖/頻道、視線和站位<br>
+https://wiki2.gamer.com.tw/wiki.php?n=72740:怪物生成&ss=72740&f=M
