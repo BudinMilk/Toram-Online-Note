@@ -43,7 +43,15 @@ Q: 在鐵匠舖合成做出來的武器或是裝備是不是固定是無孔的�
 A: 不是，是有機率出洞的，但不會出雙洞
 
 Q: 請問 stunner 跟 fb 是什麼意思？<br>
-A: stunner 能暈的人, fb 是在打王時，要全部部位破壞的意思
+A: stunner 能暈的人, fb 是在打王時，要全部部位破壞的意思<br>
+tenryu 拔刀天流<br>
+fk 速殺<br>
+bowgun 弩<br>
+arrgo 仇恨<br>
+sneak 匿蹤<br>
+stun 暈<br>
+flinch 膽怯<br>
+tumble 翻覆
 
 Q: 露珠抽的造型裝備能轉讓給别人嗎？<br>
 A: No
